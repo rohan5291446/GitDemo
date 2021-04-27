@@ -1,0 +1,3 @@
+19:24:40.413 [main] DEBUG Academy.base - abc
+19:24:44.874 [main] ERROR Academy.base - abc
+19:24:45.269 [main] INFO  Academy.base - Successfully validated test message

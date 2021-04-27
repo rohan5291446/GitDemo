@@ -1,0 +1,9 @@
+11:31:00.446 [main] INFO  Academy.base - Driver is intialized
+11:31:33.190 [main] DEBUG Academy.base - abc
+11:31:38.301 [main] ERROR Academy.base - abc
+11:31:38.441 [main] INFO  Academy.base - Successfully validated test message
+12:32:59.942 [main] INFO  Academy.base - Driver is intialized
+12:33:28.002 [main] DEBUG Academy.base - abc
+12:33:32.719 [main] ERROR Academy.base - abc
+12:33:32.887 [main] INFO  Academy.base - Successfully validated test message
+19:24:14.253 [main] INFO  Academy.base - Driver is intialized
